@@ -1,4 +1,4 @@
-# CurrencyConverterPythonGUI
+# Currency Converter Python GUI Project
 A currency converter with historical exchange rate graphing functionality - PyQt5 GUI 
 
 This application is written in python using PyQt5 and PyQtgraph.
