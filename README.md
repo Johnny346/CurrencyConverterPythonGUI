@@ -9,3 +9,4 @@ Converts currencies by a selected amount, gets the currency values from the data
 
 Plots the values of the currency exchange rates to the graph, using dates selected from the calender.
 
+!(GUI-1.PNG)
